@@ -96,8 +96,7 @@ Retail_Sales_Analysis/
 │   ├── dashboard.png
 │   ├── sales_by_category.png
 │   ├── sales_by_region.png
-│   ├── heatmap.png
-│   └── scatter_plot.png
+│   |__ heatmap.png
 │
 ├── requirements.txt
 ├── README.md
