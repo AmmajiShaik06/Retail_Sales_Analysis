@@ -318,4 +318,3 @@ Store them in the `images/` folder.
 * Add automated data refresh.
 
 ---
-
