@@ -319,4 +319,3 @@ Store them in the `images/` folder.
 
 ---
 
-derstand the end-to-end data analytics workflow, consider giving it a ⭐ on GitHub.
